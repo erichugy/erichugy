@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erichugy
-- 👀 I’m interested in breaking into the tech industry, preferably in product management!
+- 👀 I’m interested in breaking into the tech industry and would love to be able to use my business skills in conjunction with my computer science skills!
 - 🌱 I’m currently majoring in finance at McGill University and taking a minor in computer science. 
 - 💞️ I’m looking to collaborate on almost anything to learn as much as I can about coding.
 - 📫 Feel free to reach me at eric.huang5@mail.mcgill.ca
